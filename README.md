@@ -1,1 +1,1 @@
-# wordpress-docker-setup
+# Wordpress Docker Setup
