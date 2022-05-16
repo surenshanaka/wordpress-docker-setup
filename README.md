@@ -1,6 +1,6 @@
 # Wordpress Docker Setup
 
-Docker Compose workflow for local Wordpress Development. 
+Docker Compose Workflow for Local Wordpress Development. 
 
 ## Usage
 
